@@ -1,4 +1,4 @@
-#if u stole my code, ill beat yo ass
+#if u steal my code, ill beat yo ass
 import os
 import pyfiglet
 from colorama import Fore, Style, init
